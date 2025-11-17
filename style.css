@@ -1,1 +1,32 @@
+h3
+{   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#Pictures
+{
+    display: flex;
+   flex-wrap: nowrap;
+   width: auto;
+   height: 250px;
+   justify-content: space-between;
+   
+}
 
+#images
+{
+   display: flex;
+   flex-wrap: nowrap;
+   width: auto;
+   height: 500px;
+   gap: 10px;
+   
+}
+#Promotions
+{
+    display: flex;
+   flex-wrap: nowrap;
+   width: auto;
+   height: 120px;
+} 
+}
