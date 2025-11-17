@@ -15,7 +15,12 @@ header .menu .haut p{
     margin-top: 15px;
 }
 header .menu .haut .contact{
-    margin-left: 250px;
+    margin-left: 300px;
+    margin-right: 250px;
+}
+header .menu .haut .drapeau{
+    font-size: 20px;
+    margin-right: 30px;
 }
 header .menu .bas{
     display: flex;
